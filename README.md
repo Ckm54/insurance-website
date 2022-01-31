@@ -1,14 +1,13 @@
 # insurance-website
-creates an insurace website front-end using html and css
 
 ##### By Collins_54
-### It replicates a given insurance website temlate.
+### It creates an insurace website front-end using html and css.
 
 ## Table of Content
 
 + [Description](#description)
-+ [Installation Requirement](#Installation)
-+ [Technology Used](#technology-used)
++ [Installation Requirement](#text editor#font-awesome icon library)
++ [Technology Used](#Html#css)
 + [Reference](#reference)
 + [Licence](#licence)
 + [Authors Info](#author-Info)
@@ -41,7 +40,7 @@ creates an insurace website front-end using html and css
 
 MIT License
 
-Copyright (c) [2019] [Albert Byrone]
+Copyright (c) [2019] [Colli]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -65,8 +64,8 @@ SOFTWARE.
 
 ## Authors Info
 
-Slack Profile - [Albert Byrone](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
+Slack Profile - [Collins Kiplangat](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
 
-Linked - [Albert Byrone](https://www.linkedin.com/in/albert-byrone-664811144/)
+Linked - [Collins Kiplangat](https://www.linkedin.com/in/albert-byrone-664811144/)
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](#insurance-website)
