@@ -260,6 +260,11 @@ button:hover {
 }
 .single-price .price p {
     color: #23A6F0;
+    margin-top: 20px;
+    margin-left: -13px;
+}
+.single-price-focus .price p {
+    margin-left: -13px;
 }
 .price {
     width: 80%;
@@ -273,9 +278,7 @@ button:hover {
     flex-direction: column;
 }
 .price p {
-    display: inline-block;
-    margin-left: 20px;
-    justify-content: space-around;
+    
 }
 .deals {
     margin-top: 10%;
@@ -287,8 +290,7 @@ button:hover {
     margin-top: 20%;
 }
 .price h3 {
-    font-size: 38px;
-    /* color: #fff; */
+    
 }
 .deals h4 {
     font-size: 15px;
@@ -471,17 +473,5 @@ label {
 }
 .fa {
     color: #23A6F0;
-}
-@media screen and (max-width: 600px) {
-    .card-column {
-        width: 100%;
-        display: block;
-        margin-bottom: 20px;
-        font-weight: bold;
-    }
-    .col-25, .col-75, input[type=submit] {
-        width: 100%;
-        margin-top: 0;
-    }
 }
 

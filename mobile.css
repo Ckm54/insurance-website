@@ -1,0 +1,30 @@
+@media screen and (max-width: 600px) {
+    .banner, .navbar {
+        display: block;
+        margin-bottom: 30vh;
+        background-image: none;
+    }
+    
+    .banner .content {
+        margin-top: 30vh;
+        height: 90vh;
+        width: 100%;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),  url('/Assets/hero-cover.3.png');
+        background-size: cover;
+        background-position: center;
+    }
+    .card-column1 {
+        width: 100%;
+        display: block;
+        margin-bottom: 20px;
+        font-weight: bold;
+    }
+    .card-row {
+        display: inline-block;
+        width: 50%;
+    }
+    .col-25, .col-75, input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
+}
