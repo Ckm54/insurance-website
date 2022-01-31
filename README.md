@@ -25,9 +25,9 @@
 
 ### Installation Process
 
--fork this repo and download the resulting zip file
--extract zip to working directory and open using favorite text editor
--launch the website using a local live server to view on the web
+- fork this repo and download the resulting zip file
+- extract zip to working directory and open using favorite text editor
+- launch the website using a local live server to view on the web
 
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
