@@ -6,8 +6,8 @@
 ## Table of Content
 
 + [Description](#description)
-+ [Installation Requirement](#text editor#font-awesome icon library)
-+ [Technology Used](#Html#css)
++ [Installation Requirement](#Installation)
++ [Technology Used](#Technology-used)
 + [Reference](#reference)
 + [Licence](#licence)
 + [Authors Info](#author-Info)
@@ -27,9 +27,9 @@
 
 [Go Back to the top](#portfolio)
 ## Technology Used
-* HTNL - which was used to build the structure of the pages.
+* HTML - which was used to build the structure of the pages.
 
-* CSS - which was used to style the pages incuding the left aside navigation bar
+* CSS - which was used to style the pages 
 
 ## Reference
 * Materialize CSS
@@ -40,7 +40,7 @@
 
 MIT License
 
-Copyright (c) [2019] [Colli]
+Copyright (c) 2022 Collins Kiplangat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -64,8 +64,8 @@ SOFTWARE.
 
 ## Authors Info
 
-Slack Profile - [Collins Kiplangat](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
+Slack Profile - [Collins Kiplangat](https://app.slack.com/client/T0101L740P4/D02TWE6NQ1Z/user_profile/U02TFQD7EKZ)
 
-Linked - [Collins Kiplangat](https://www.linkedin.com/in/albert-byrone-664811144/)
+Linked - [Collins Kiplangat](https://www.linkedin.com/in/collins-kiplangat-a1bab715a/)
 
 [Go Back to the top](#insurance-website)
